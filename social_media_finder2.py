@@ -51,7 +51,7 @@ class SocialMediaFinder:
         })
         
         # API Keys (ganti dengan API key Anda sendiri)
-        self.opencage_api_key = "YOUR_OPENCAGE_API_KEY"  # Dapatkan dari opencagedata.com (free tier)
+        self.opencage_api_key = "4913a607f0a3421795904643fcabe5a6"  # Dapatkan dari opencagedata.com (free tier)
         self.openstreetmap_api = "https://nominatim.openstreetmap.org/search"
         
         # Daftar platform yang akan diperiksa
